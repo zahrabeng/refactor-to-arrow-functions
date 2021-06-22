@@ -1,7 +1,6 @@
 {
-  "name": "ts-kata-template",
+  "name": "refactor-to-arrow-functions",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "CC-BY-NC-ND-4.0",
   "devDependencies": {
     "@babel/core": "^7.14.3",
