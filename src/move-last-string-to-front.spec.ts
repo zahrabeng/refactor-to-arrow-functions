@@ -11,4 +11,5 @@ test("moveLastStringToFront moves the last string in an array to the front", () 
   expect(
     moveLastStringToFront(["cat", "sat", "on", "the", "mat", "the"]),
   ).toEqual(["the", "cat", "sat", "on", "the", "mat"]);
+  expect(moveLastStringToFront(["boring"])).toEqual(["boring"]);
 });
