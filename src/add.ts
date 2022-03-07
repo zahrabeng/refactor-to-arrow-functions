@@ -8,6 +8,6 @@
 const add = (firstNum: number, secondNum: number): number => {
   const total = firstNum + secondNum;
   return total;
-}
+};
 
 export default add;

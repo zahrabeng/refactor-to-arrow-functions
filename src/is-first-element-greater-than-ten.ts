@@ -10,6 +10,6 @@ const isFirstElementGreaterThanTen = (nums: number[]): boolean => {
   } else {
     return false;
   }
-}
+};
 
 export default isFirstElementGreaterThanTen;

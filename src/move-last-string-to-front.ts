@@ -17,6 +17,6 @@ const moveLastStringToFront = (stringArr: string[]): string[] => {
   }
 
   return resultArr;
-}
+};
 
 export default moveLastStringToFront;
